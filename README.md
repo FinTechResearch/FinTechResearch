@@ -256,20 +256,6 @@ Status: Complete
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
----
-
-# 📊 GITHUB TELEMETRY
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=FinTechResearch&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FinTechResearch&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
-
----
-
 # 🔥 DEVELOPMENT STREAK
 
 <div align="center">
@@ -278,17 +264,6 @@ Status: Complete
 
 </div>
 
----
-
-# 🏆 GITHUB ACHIEVEMENTS
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=FinTechResearch&theme=tokyonight&no-frame=true&row=1&column=6" />
-
-</div>
-
----
 
 # 📈 CONTRIBUTION MATRIX
 
