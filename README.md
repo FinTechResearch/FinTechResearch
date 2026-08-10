@@ -33,7 +33,7 @@ Role: AI Product Builder
 
 Location: India 🇮🇳
 
-Availability: Open For Freelance Projects
+Availability: Open For Freelance Projects, Jobs, Contracts, Remote Opportunities
 
 Focus:
   - AI Applications
