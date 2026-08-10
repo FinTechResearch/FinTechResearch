@@ -1,202 +1,288 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=34&duration=2500&pause=1000&color=00FFFF&center=true&vCenter=true&multiline=true&width=1200&height=120&lines=ADITYA+MADHOK;AI+PRODUCT+BUILDER+%7C+PYTHON+DEVELOPER;BUILDING+THE+FUTURE+ONE+PRODUCT+AT+A+TIME" />
+<img src="<img width="1983" height="793" alt="banner" src="https://github.com/user-attachments/assets/e5837d72-dd57-40ab-9004-57f3a4d95f0a" />
+" width="100%" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00FFFF,20:FF00FF,40:00FF00,60:FFFF00,80:FF4500,100:00FFFF&text=AI%20PRODUCT%20ENGINEER&fontAlign=50&fontAlignY=40&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+# ⚡ ADITYA MADHOK
+
+### 🤖 AI PRODUCT BUILDER • 🐍 PYTHON DEVELOPER • ⚙️ AUTOMATION ENGINEER
+
+### Building AI Products That People Actually Use
+
+<br>
+
+<a href="https://fintechresearch.github.io/Aditya-Madhok-Portfolio/">
+<img src="https://img.shields.io/badge/🌐_Portfolio-Live-00FFFF?style=for-the-badge"/>
+</a>
+
+<a href="https://linkedin.com/in/aditya-madhok">
+<img src="https://img.shields.io/badge/💼_LinkedIn-Connect-FF00FF?style=for-the-badge"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=FinTechResearch&label=Profile+Views&color=00ffff&style=for-the-badge"/>
 
 </div>
 
 ---
 
-<div align="center">
+# 🚀 CURRENT STATUS
 
-# ⚡ AVAILABLE FOR JOBS, FREELANCE PROJECTS & REMOTE OPPORTUNITIES
+```yaml
+Name: Aditya Madhok
 
-### 🤖 AI Applications • ⚙️ Automation • 🚀 SaaS • 📈 FinTech • 🌐 Full-Stack Solutions
+Role: AI Product Builder
 
-</div>
+Location: India 🇮🇳
 
-```text
-╔════════════════════════════════════════════════════════════╗
-║                    NEURAL SYSTEM STATUS                   ║
-╠════════════════════════════════════════════════════════════╣
-║ Developer        : Aditya Madhok                          ║
-║ Role             : AI Product Builder                     ║
-║ Primary Stack    : Python + AI + Automation              ║
-║ Mission          : Build Useful Software                  ║
-║ Current State    : SHIPPING                               ║
-║ Availability     : OPEN FOR WORK                          ║
-║ Location         : India 🇮🇳                              ║
-║ Version          : 2026.08 Stable Release                 ║
-╚════════════════════════════════════════════════════════════╝
+Availability: Open For Freelance Projects
+
+Focus:
+  - AI Applications
+  - Automation Systems
+  - SaaS Products
+  - FinTech Solutions
+  - Browser Extensions
+
+Current Mission:
+  Build useful software that solves real problems.
 ```
 
 ---
 
-# 🌌 WHO I AM
-
-I build products.
-
-Not tutorials.
-
-Not clone projects.
-
-Not unfinished ideas.
-
-I identify real-world problems and engineer systems that solve them.
-
-My work combines:
-
-⚡ Artificial Intelligence
-
-⚡ Product Engineering
-
-⚡ Python Development
-
-⚡ Business Automation
-
-⚡ FinTech Innovation
-
-⚡ Growth Systems
-
-⚡ Digital Strategy
-
----
-
-# 💼 WHAT I CAN BUILD FOR CLIENTS
+# 💼 AVAILABLE FOR
 
 ```text
-AI AGENTS
-├── GPT Applications
-├── LLM Workflows
-├── AI Assistants
-└── Automation Systems
+✓ AI Agent Development
 
-PYTHON DEVELOPMENT
-├── Custom Software
-├── APIs
-├── Data Processing
-└── Automation Scripts
+✓ GPT / LLM Applications
 
-WEB PRODUCTS
-├── SaaS Platforms
-├── Dashboards
-├── Internal Tools
-└── Browser Extensions
+✓ Python Automation
 
-BUSINESS AUTOMATION
-├── Lead Generation
-├── Marketing Automation
-├── Reporting Systems
-└── Workflow Optimization
+✓ Browser Extensions
+
+✓ SaaS MVP Development
+
+✓ Dashboard Development
+
+✓ Workflow Automation
+
+✓ Internal Business Tools
+
+✓ Data Processing Pipelines
+
+✓ FinTech Solutions
 ```
 
 ---
 
-# 🚀 FEATURED DEPLOYMENTS
+# 🏆 FEATURED PRODUCTS
 
 ## 🧠 CareerCommandCenter
 
-```text
-STATUS        : DEPLOYED
-CATEGORY      : AI Career Toolkit
-TECHNOLOGY    : Python + SQLite + Groq LLM
-MONETIZATION  : ACTIVE
-```
+AI-powered Career Operating System
 
-🔗 https://github.com/FinTechResearch/CareerCommandCenter
+Features:
+
+• Resume Match Engine
+
+• Job Intelligence Layer
+
+• AI Cover Letter Generator
+
+• Application Tracker
+
+• Career Insights Dashboard
+
+Tech Stack:
+
+Python • SQLite • Groq LLM • Textual
+
+🔗 Repository:
+
+https://github.com/FinTechResearch/CareerCommandCenter
 
 ---
 
 ## 🎬 ScriptWave
 
-```text
-STATUS        : LIVE
-CATEGORY      : Browser Extension
-PLATFORM      : Microsoft Edge Store
-```
+Video → Transcript → AI Script Generator
 
-🔗 https://microsoftedge.microsoft.com/addons/detail/scriptwave-%E2%80%93-youtube-scri/hbfnmkjbpphplkdnbblagdaebphlmkdm
+Features:
+
+• Transcript Extraction
+
+• AI Script Generation
+
+• Hook Generator
+
+• CTA Builder
+
+• Creator Workflow Automation
+
+🔗 Live Product
+
+https://microsoftedge.microsoft.com/addons/detail/scriptwave-%E2%80%93-youtube-scri/hbfnmkjbpphplkdnbblagdaebphlmkdm
 
 ---
 
 ## 🎵 Frequenz
 
-```text
-STATUS        : LIVE
-CATEGORY      : Audio-Reactive Extension
-PLATFORM      : Chrome Web Store
-```
+Audio-Reactive Browser Extension
 
-🔗 https://chromewebstore.google.com/detail/frequenz-%E2%80%94-audio-reactive/kndgacdappgonickpgcfbfolbakklfij
+Features:
+
+• Real-Time Audio Analysis
+
+• Dynamic Visualizations
+
+• Browser Audio Processing
+
+• Interactive Effects
+
+🔗 Chrome Web Store
+
+https://chromewebstore.google.com/detail/frequenz-%E2%80%94-audio-reactive/kndgacdappgonickpgcfbfolbakklfij
 
 ---
 
-# 🛠 TECH ARSENAL
+## 🔊 SoundForge
+
+Audio Engineering Application
+
+Status: Active Development
+
+---
+
+## 🎨 AI Wallpaper Generator
+
+Java-based Automated Wallpaper Generator
+
+Status: Complete
+
+---
+
+# ⚙️ TECH STACK
+
+## AI & Automation
+
+![OpenAI](https://img.shields.io/badge/OpenAI-111111?style=for-the-badge&logo=openai)
+![Groq](https://img.shields.io/badge/Groq-111111?style=for-the-badge)
+![LLM](https://img.shields.io/badge/LLM-111111?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-111111?style=for-the-badge)
+
+---
+
+## Backend
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-E76F00?style=for-the-badge&logo=openjdk)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite)
+
+---
+
+## Frontend
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+
+---
+
+## Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+
+---
+
+# 📊 GITHUB TELEMETRY
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-00FFFF?style=for-the-badge\&logo=python\&logoColor=black)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=FinTechResearch&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-FF00FF?style=for-the-badge\&logo=javascript\&logoColor=black)
-
-![Java](https://img.shields.io/badge/Java-00FF00?style=for-the-badge\&logo=openjdk\&logoColor=black)
-
-![OpenAI](https://img.shields.io/badge/OpenAI-00FFFF?style=for-the-badge\&logo=openai\&logoColor=black)
-
-![Automation](https://img.shields.io/badge/Automation-FFFF00?style=for-the-badge)
-
-![GitHub](https://img.shields.io/badge/GitHub-FF4500?style=for-the-badge\&logo=github)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FinTechResearch&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🎯 WHY HIRE ME?
+# 🔥 DEVELOPMENT STREAK
 
-```text
-Most developers write code.
+<div align="center">
 
-I identify opportunities.
+<img src="https://streak-stats.demolab.com?user=FinTechResearch&theme=tokyonight&hide_border=true"/>
 
-Design systems.
+</div>
 
-Build products.
+---
 
-Deploy solutions.
+# 📈 CONTRIBUTION MATRIX
 
-Create leverage.
+<div align="center">
 
-Generate results.
-```
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=FinTechResearch&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🎓 CERTIFICATIONS
+
+🏆 Google Fundamentals of Digital Marketing
+
+🏆 AI-Powered Digital Marketing
+
+🏆 Instagram Reels & YouTube SEO
 
 ---
 
 # 📡 CONTACT
 
-```text
-STATUS : ACCEPTING
+📧 adityamadhok2026@gmail.com
 
-✓ Freelance Projects
-✓ Remote Jobs
-✓ Contract Work
-✓ Startup Collaborations
-✓ AI Product Development
+🌐 Portfolio
+
+https://fintechresearch.github.io/Aditya-Madhok-Portfolio/
+
+💼 LinkedIn
+
+https://linkedin.com/in/aditya-madhok
+
+🐙 GitHub
+
+https://github.com/FinTechResearch
+
+🔗 Linktree
+
+https://linktr.ee/adityamadhok
+
+---
+
+# 💡 PHILOSOPHY
+
+```python
+while alive:
+
+    identify_problem()
+
+    build_solution()
+
+    ship_product()
+
+    improve()
+
+    repeat()
 ```
-
-📧 [adityamadhok2026@gmail.com](mailto:adityamadhok2026@gmail.com)
-
-🌐 https://github.com/FinTechResearch
-
-💼 https://linkedin.com/in/aditya-madhok
-
-🔗 https://linktr.ee/adityamadhok
 
 ---
 
 <div align="center">
 
-# ⚡ BUILD • SHIP • SCALE • REPEAT ⚡
+# ⚡ BUILD • SHIP • SCALE • REPEAT
 
 ### "Ideas are cheap. Shipped products are valuable."
 
