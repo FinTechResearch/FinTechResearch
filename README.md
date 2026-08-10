@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/badge/🌐_Portfolio-Live-00FFFF?style=for-the-badge"/>
 </a>
 
-<a href="https://linkedin.com/in/aditya-madhok">
+<a href="https://linkedin.com/in/aditya-madhok-035359l44a">
 <img src="https://img.shields.io/badge/💼_LinkedIn-Connect-FF00FF?style=for-the-badge"/>
 </a>
 
