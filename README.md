@@ -1,6 +1,7 @@
 <div align="center">
 
-<img width="1983" height="793" alt="banner" src="https://github.com/user-attachments/assets/e5837d72-dd57-40ab-9004-57f3a4d95f0a" />
+<img width="1983" height="793" alt="banner" src="https://github.com/user-attachments/assets/2fcdca07-fbc9-4588-9be1-7547eac52208" />
+
 
 # ⚡ ADITYA MADHOK
 
@@ -10,17 +11,28 @@
 
 <br>
 
-<a href="https://fintechresearch.github.io/Aditya-Madhok-Portfolio/">
-<img src="https://img.shields.io/badge/🌐_Portfolio-Live-00FFFF?style=for-the-badge"/>
-</a>
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Live-00FFFF?style=for-the-badge)](https://fintechresearch.github.io/Aditya-Madhok-Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-FF00FF?style=for-the-badge)](https://linkedin.com/in/aditya-madhok-035359l44a)
+[![Email](https://img.shields.io/badge/📧_Email-Contact-00FF88?style=for-the-badge)](mailto:adityamadhok2026@gmail.com)
 
-<a href="https://linkedin.com/in/aditya-madhok-035359l44a">
-<img src="https://img.shields.io/badge/💼_LinkedIn-Connect-FF00FF?style=for-the-badge"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=FinTechResearch&label=Profile+Views&color=00ffff&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=FinTechResearch&label=PROFILE+VIEWS&color=00ffff&style=for-the-badge"/>
 
 </div>
+
+---
+
+# 🚀 QUICK FACTS
+
+```diff
++ AI Product Builder
++ Python Developer
++ Automation Engineer
++ Published Browser Extensions
++ FinTech + AI Background
++ Open For Freelance Projects
++ Open For Remote Opportunities
++ Building Products, Not Just Projects
+```
 
 ---
 
@@ -33,43 +45,83 @@ Role: AI Product Builder
 
 Location: India 🇮🇳
 
-Availability: Open For Freelance Projects, Jobs, Contracts, Remote Opportunities
+Availability:
+  - Freelance Projects
+  - Contract Work
+  - Remote Opportunities
+  - Startup Collaborations
 
-Focus:
-  - AI Applications
+Current Focus:
+  - AI Agents
+  - LLM Applications
   - Automation Systems
   - SaaS Products
-  - FinTech Solutions
   - Browser Extensions
+  - FinTech Solutions
 
-Current Mission:
+Mission:
   Build useful software that solves real problems.
 ```
 
 ---
 
-# 💼 AVAILABLE FOR
+# 💼 SERVICES
 
 ```text
-✓ AI Agent Development
+AI DEVELOPMENT
+━━━━━━━━━━━━━━━━━━━━━━
 
-✓ GPT / LLM Applications
+✓ AI Agents
 
-✓ Python Automation
+✓ GPT Applications
+
+✓ LLM Integrations
+
+✓ AI Workflow Automation
+
+✓ Prompt Engineering
+
+
+PYTHON DEVELOPMENT
+━━━━━━━━━━━━━━━━━━━━━━
+
+✓ Automation Scripts
+
+✓ APIs
+
+✓ Data Processing
+
+✓ Business Tools
+
+✓ Custom Software
+
+
+WEB & PRODUCT DEVELOPMENT
+━━━━━━━━━━━━━━━━━━━━━━
+
+✓ SaaS MVPs
 
 ✓ Browser Extensions
 
-✓ SaaS MVP Development
+✓ Dashboards
 
-✓ Dashboard Development
+✓ Internal Tools
 
-✓ Workflow Automation
+✓ Productivity Systems
 
-✓ Internal Business Tools
 
-✓ Data Processing Pipelines
+BUSINESS AUTOMATION
+━━━━━━━━━━━━━━━━━━━━━━
 
-✓ FinTech Solutions
+✓ Lead Automation
+
+✓ Reporting Systems
+
+✓ Workflow Optimization
+
+✓ Marketing Automation
+
+✓ Operations Automation
 ```
 
 ---
@@ -78,25 +130,21 @@ Current Mission:
 
 ## 🧠 CareerCommandCenter
 
-AI-powered Career Operating System
+AI-powered Career Operating System.
 
-Features:
+### Features
 
-• Resume Match Engine
+- Resume Match Engine
+- Job Intelligence Layer
+- AI Cover Letter Generator
+- Application Tracker
+- Career Insights Dashboard
 
-• Job Intelligence Layer
-
-• AI Cover Letter Generator
-
-• Application Tracker
-
-• Career Insights Dashboard
-
-Tech Stack:
+### Stack
 
 Python • SQLite • Groq LLM • Textual
 
-🔗 Repository:
+🔗 Repository
 
 https://github.com/FinTechResearch/CareerCommandCenter
 
@@ -106,19 +154,15 @@ https://github.com/FinTechResearch/CareerCommandCenter
 
 Video → Transcript → AI Script Generator
 
-Features:
+### Features
 
-• Transcript Extraction
+- Transcript Extraction
+- Script Generation
+- Hook Builder
+- CTA Generator
+- Creator Workflow Automation
 
-• AI Script Generation
-
-• Hook Generator
-
-• CTA Builder
-
-• Creator Workflow Automation
-
-🔗 Live Product
+🔗 Microsoft Edge Store
 
 https://microsoftedge.microsoft.com/addons/detail/scriptwave-%E2%80%93-youtube-scri/hbfnmkjbpphplkdnbblagdaebphlmkdm
 
@@ -128,15 +172,12 @@ https://microsoftedge.microsoft.com/addons/detail/scriptwave-%E2%80%93-youtube-s
 
 Audio-Reactive Browser Extension
 
-Features:
+### Features
 
-• Real-Time Audio Analysis
-
-• Dynamic Visualizations
-
-• Browser Audio Processing
-
-• Interactive Effects
+- Real-Time Audio Analysis
+- Dynamic Visualizations
+- Browser Audio Processing
+- Interactive Effects
 
 🔗 Chrome Web Store
 
@@ -148,7 +189,9 @@ https://chromewebstore.google.com/detail/frequenz-%E2%80%94-audio-reactive/kndga
 
 Audio Engineering Application
 
+```text
 Status: Active Development
+```
 
 ---
 
@@ -156,22 +199,40 @@ Status: Active Development
 
 Java-based Automated Wallpaper Generator
 
+```text
 Status: Complete
+```
+
+---
+
+# 🔨 CURRENTLY BUILDING
+
+```text
+🚀 CareerCommandCenter v2
+
+🤖 AI Agent Experiments
+
+⚡ Advanced Automation Systems
+
+📈 SaaS Product Ideas
+
+🎯 New Browser Extensions
+```
 
 ---
 
 # ⚙️ TECH STACK
 
-## AI & Automation
+## 🤖 AI & AUTOMATION
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-111111?style=for-the-badge&logo=openai)
 ![Groq](https://img.shields.io/badge/Groq-111111?style=for-the-badge)
-![LLM](https://img.shields.io/badge/LLM-111111?style=for-the-badge)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-111111?style=for-the-badge)
+![LLM](https://img.shields.io/badge/LLM_Engineering-111111?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-111111?style=for-the-badge)
 
 ---
 
-## Backend
+## 🐍 BACKEND
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 ![Java](https://img.shields.io/badge/Java-E76F00?style=for-the-badge&logo=openjdk)
@@ -179,7 +240,7 @@ Status: Complete
 
 ---
 
-## Frontend
+## 🌐 FRONTEND
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
 
@@ -189,7 +250,7 @@ Status: Complete
 
 ---
 
-## Tools
+## 🛠 TOOLS
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 
@@ -219,11 +280,31 @@ Status: Complete
 
 ---
 
+# 🏆 GITHUB ACHIEVEMENTS
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=FinTechResearch&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
 # 📈 CONTRIBUTION MATRIX
 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=FinTechResearch&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🐍 CONTRIBUTION SNAKE
+
+<div align="center">
+
+![Snake animation](https://github.com/FinTechResearch/FinTechResearch/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
@@ -241,7 +322,9 @@ Status: Complete
 
 # 📡 CONTACT
 
-📧 adityamadhok2026@gmail.com
+📧 Email
+
+adityamadhok2026@gmail.com
 
 🌐 Portfolio
 
@@ -281,7 +364,7 @@ while alive:
 
 <div align="center">
 
-# ⚡ BUILD • SHIP • SCALE • REPEAT
+# ⚡ BUILD • SHIP • SCALE • REPEAT ⚡
 
 ### "Ideas are cheap. Shipped products are valuable."
 
