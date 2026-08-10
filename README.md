@@ -1,230 +1,203 @@
-# <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=6EE7C9&center=true&vCenter=true&width=1000&lines=ADITYA+MADHOK;AI+PRODUCT+BUILDER;PYTHON+DEVELOPER;AUTOMATION+ARCHITECT;BUILDING+THE+FUTURE%2C+ONE+PRODUCT+AT+A+TIME" />
-
 <div align="center">
 
-### ⚡ AI • Automation • SaaS • FinTech • Product Engineering
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=34&duration=2500&pause=1000&color=00FFFF&center=true&vCenter=true&multiline=true&width=1200&height=120&lines=ADITYA+MADHOK;AI+PRODUCT+BUILDER+%7C+PYTHON+DEVELOPER;BUILDING+THE+FUTURE+ONE+PRODUCT+AT+A+TIME" />
 
-*"I build the fix before someone else gets around to it."*
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00FFFF,20:FF00FF,40:00FF00,60:FFFF00,80:FF4500,100:00FFFF&text=AI%20PRODUCT%20ENGINEER&fontAlign=50&fontAlignY=40&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 
 </div>
 
 ---
 
+<div align="center">
+
+# ⚡ AVAILABLE FOR FREELANCE PROJECTS & REMOTE OPPORTUNITIES
+
+### 🤖 AI Applications • ⚙️ Automation • 🚀 SaaS • 📈 FinTech • 🌐 Full-Stack Solutions
+
+</div>
+
 ```text
-SYSTEM STATUS
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-Developer          : Aditya Madhok
-Mode               : BUILDING
-Location           : India 🇮🇳
-Focus              : AI Products
-Current Mission    : Ship Useful Software
-Coffee Dependency  : HIGH ☕
-Deployment Status  : ACTIVE 🟢
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+╔════════════════════════════════════════════════════════════╗
+║                    NEURAL SYSTEM STATUS                   ║
+╠════════════════════════════════════════════════════════════╣
+║ Developer        : Aditya Madhok                          ║
+║ Role             : AI Product Builder                     ║
+║ Primary Stack    : Python + AI + Automation              ║
+║ Mission          : Build Useful Software                  ║
+║ Current State    : SHIPPING                               ║
+║ Availability     : OPEN FOR WORK                          ║
+║ Location         : India 🇮🇳                              ║
+║ Version          : 2026.08 Stable Release                 ║
+╚════════════════════════════════════════════════════════════╝
 ```
 
 ---
 
-# // WHO_AM_I
-
-I'm a product-focused Python developer obsessed with identifying friction, designing solutions, and shipping software that people actually use.
-
-I don't just write code.
-
-I design systems.
-
-I automate workflows.
+# 🌌 WHO I AM
 
 I build products.
 
-I launch.
+Not tutorials.
 
-I iterate.
+Not clone projects.
 
-I scale.
+Not unfinished ideas.
 
-My work lives at the intersection of:
+I identify real-world problems and engineer systems that solve them.
 
-* 🤖 Artificial Intelligence
-* ⚙️ Automation
-* 📈 FinTech
-* 🚀 SaaS Products
-* 🌐 Web Technologies
-* 🎨 Design & User Experience
+My work combines:
 
----
+⚡ Artificial Intelligence
 
-# // CURRENT_BUILD_STACK
+⚡ Product Engineering
 
-<div align="center">
+⚡ Python Development
 
+⚡ Business Automation
 
+⚡ FinTech Innovation
 
-\
+⚡ Growth Systems
 
-
-\
-
-
-
-\
-
-</div>
+⚡ Digital Strategy
 
 ---
 
-# // FEATURED_SYSTEMS
+# 💼 WHAT I CAN BUILD FOR CLIENTS
+
+```text
+AI AGENTS
+├── GPT Applications
+├── LLM Workflows
+├── AI Assistants
+└── Automation Systems
+
+PYTHON DEVELOPMENT
+├── Custom Software
+├── APIs
+├── Data Processing
+└── Automation Scripts
+
+WEB PRODUCTS
+├── SaaS Platforms
+├── Dashboards
+├── Internal Tools
+└── Browser Extensions
+
+BUSINESS AUTOMATION
+├── Lead Generation
+├── Marketing Automation
+├── Reporting Systems
+└── Workflow Optimization
+```
+
+---
+
+# 🚀 FEATURED DEPLOYMENTS
 
 ## 🧠 CareerCommandCenter
 
-AI-powered career operating system.
-
 ```text
-Resume Match Engine
-Job Intelligence Layer
-Cover Letter Generator
-Application Tracker
-AI Career Advisor
+STATUS        : DEPLOYED
+CATEGORY      : AI Career Toolkit
+TECHNOLOGY    : Python + SQLite + Groq LLM
+MONETIZATION  : ACTIVE
 ```
 
-**Stack:** Python • SQLite • Groq LLM • Textual TUI
-
-Link : https://github.com/FinTechResearch/CareerCommandCenter
+🔗 https://github.com/FinTechResearch/CareerCommandCenter
 
 ---
 
 ## 🎬 ScriptWave
 
-Video → Transcript → AI Script Pipeline
-
 ```text
-Video Analysis
-Transcript Extraction
-Prompt Engineering
-Llama Integration
-Script Generation
-Teleprompter Output
-
-Link : https://microsoftedge.microsoft.com/addons/detail/scriptwave-%E2%80%93-youtube-scri/hbfnmkjbpphplkdnbblagdaebphlmkdm
+STATUS        : LIVE
+CATEGORY      : Browser Extension
+PLATFORM      : Microsoft Edge Store
 ```
+
+🔗 https://microsoftedge.microsoft.com/addons/detail/scriptwave-%E2%80%93-youtube-scri/hbfnmkjbpphplkdnbblagdaebphlmkdm
 
 ---
 
 ## 🎵 Frequenz
 
-Real-time browser audio visualizer.
-
 ```text
-Web Audio API
-Live Frequency Analysis
-Canvas Rendering
-Interactive Visual Systems
-
-Link : https://chromewebstore.google.com/detail/frequenz-%E2%80%94-audio-reactive/kndgacdappgonickpgcfbfolbakklfij
+STATUS        : LIVE
+CATEGORY      : Audio-Reactive Extension
+PLATFORM      : Chrome Web Store
 ```
 
----
-
-## 🔊 SoundForge
-
-Audio processing and sound engineering web application.
+🔗 https://chromewebstore.google.com/detail/frequenz-%E2%80%94-audio-reactive/kndgacdappgonickpgcfbfolbakklfij
 
 ---
 
-## 🎨 AI Wallpaper Generator
-
-Automated visual generation engine built in Java.
-
----
-
-# // GITHUB_TELEMETRY
+# 🛠 TECH ARSENAL
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=FinTechResearch&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+![Python](https://img.shields.io/badge/Python-00FFFF?style=for-the-badge\&logo=python\&logoColor=black)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FinTechResearch&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+![JavaScript](https://img.shields.io/badge/JavaScript-FF00FF?style=for-the-badge\&logo=javascript\&logoColor=black)
+
+![Java](https://img.shields.io/badge/Java-00FF00?style=for-the-badge\&logo=openjdk\&logoColor=black)
+
+![OpenAI](https://img.shields.io/badge/OpenAI-00FFFF?style=for-the-badge\&logo=openai\&logoColor=black)
+
+![Automation](https://img.shields.io/badge/Automation-FFFF00?style=for-the-badge)
+
+![GitHub](https://img.shields.io/badge/GitHub-FF4500?style=for-the-badge\&logo=github)
 
 </div>
 
 ---
 
-# // CONTRIBUTION_MATRIX
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=FinTechResearch&theme=tokyo-night&hide_border=true&bg_color=00000000"/>
-
-</div>
-
----
-
-# // DEVELOPMENT_STREAK
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=FinTechResearch&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# // CERTIFICATION_PROTOCOLS
-
-🏆 Google Fundamentals of Digital Marketing
-
-🏆 AI-Powered Digital Marketing
-
-🏆 Instagram Reels & YouTube SEO
-
----
-
-# // CURRENT_OBJECTIVES
-
-```python
-while alive:
-
-    identify_problem()
-
-    build_solution()
-
-    ship_product()
-
-    learn()
-
-    repeat()
-```
-
----
-
-# // CONNECT
-
-<div align="center">
-
-[LinkedIn](https://linkedin.com/in/aditya-madhok) •
-[GitHub](https://github.com/FinTechResearch) •
-[Linktree](https://linktr.ee/adityamadhok)
-
-</div>
-
----
+# 🎯 WHY HIRE ME?
 
 ```text
-MISSION LOG
+Most developers write code.
+
+I identify opportunities.
+
+Design systems.
 
 Build products.
-Create leverage.
-Automate the repetitive.
-Scale the useful.
 
-Version: 2026.08
-Status : SHIPPING
+Deploy solutions.
+
+Create leverage.
+
+Generate results.
 ```
+
+---
+
+# 📡 CONTACT
+
+```text
+STATUS : ACCEPTING
+
+✓ Freelance Projects
+✓ Remote Jobs
+✓ Contract Work
+✓ Startup Collaborations
+✓ AI Product Development
+```
+
+📧 [adityamadhok2026@gmail.com](mailto:adityamadhok2026@gmail.com)
+
+🌐 https://github.com/FinTechResearch
+
+💼 https://linkedin.com/in/aditya-madhok
+
+🔗 https://linktr.ee/adityamadhok
+
+---
 
 <div align="center">
 
-⚡ BUILD • SHIP • SCALE ⚡
+# ⚡ BUILD • SHIP • SCALE • REPEAT ⚡
+
+### "Ideas are cheap. Shipped products are valuable."
 
 </div>
