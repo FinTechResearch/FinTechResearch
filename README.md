@@ -249,7 +249,7 @@ https://fintechresearch.github.io/Aditya-Madhok-Portfolio/
 
 💼 LinkedIn
 
-https://linkedin.com/in/aditya-madhok
+[https://linkedin.com/in/aditya-madhok](https://linkedin.com/in/aditya-madhok-035359l44a)
 
 🐙 GitHub
 
