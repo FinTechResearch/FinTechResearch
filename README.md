@@ -1,172 +1,230 @@
-# 👋 Hey, I'm Aditya Madhok
+# <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=6EE7C9&center=true&vCenter=true&width=1000&lines=ADITYA+MADHOK;AI+PRODUCT+BUILDER;PYTHON+DEVELOPER;AUTOMATION+ARCHITECT;BUILDING+THE+FUTURE%2C+ONE+PRODUCT+AT+A+TIME" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=6EE7C9&center=true&vCenter=true&width=900&lines=AI+Product+Builder;Python+Developer;FinTech+%7C+Automation+%7C+SaaS;I+build+the+fix+before+someone+else+gets+around+to+it" />
+<div align="center">
 
----
+### ⚡ AI • Automation • SaaS • FinTech • Product Engineering
 
-## 🚀 About Me
+*"I build the fix before someone else gets around to it."*
 
-I'm an AI Product Builder and Python Developer passionate about transforming ideas into real-world products.
-
-Rather than building projects for the sake of projects, I focus on solving problems, automating workflows, and creating tools that people can actually use.
-
-🎓 B.Tech (Electronics & Communication Engineering) — MANIT Bhopal
-
-💡 Builder of AI-powered tools, SaaS products, browser extensions, and automation systems
-
-📈 Background spanning AI, Python, SEO, Digital Marketing, Design, and Content Strategy
-
-🎯 Mission: Build AI-native products that save time, create value, and scale
+</div>
 
 ---
 
-## 🧠 Current Focus
+```text
+SYSTEM STATUS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-* AI Agents
-* Multi-Agent Systems
-* SaaS Development
-* Python Automation
-* LLM Applications
-* FinTech Products
-* Productivity Tools
-* Browser Extensions
+Developer          : Aditya Madhok
+Mode               : BUILDING
+Location           : India 🇮🇳
+Focus              : AI Products
+Current Mission    : Ship Useful Software
+Coffee Dependency  : HIGH ☕
+Deployment Status  : ACTIVE 🟢
 
----
-
-## ⚡ Tech Stack
-
-### Programming
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-E76F00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
-
-### AI & Automation
-
-![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge\&logo=openai)
-![LLM](https://img.shields.io/badge/LLM-6EE7C9?style=for-the-badge)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-8B5CF6?style=for-the-badge)
-![Automation](https://img.shields.io/badge/Automation-22D3EE?style=for-the-badge)
-
-### Web
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
-
-### Marketing & Analytics
-
-![SEO](https://img.shields.io/badge/SEO-34A853?style=for-the-badge)
-![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge\&logo=googleanalytics)
-![Content Strategy](https://img.shields.io/badge/Content%20Strategy-4285F4?style=for-the-badge)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
 
 ---
 
-## 🏗 Featured Projects
+# // WHO_AM_I
 
-### 🚀 CareerCommandCenter
+I'm a product-focused Python developer obsessed with identifying friction, designing solutions, and shipping software that people actually use.
 
-AI-powered career toolkit featuring:
+I don't just write code.
 
-* Resume Match
-* AI Job Analyzer
-* Cover Letter Generator
-* Application Tracker
-* Career Insights Engine
+I design systems.
 
-**Stack:** Python • SQLite • Groq LLM API
+I automate workflows.
+
+I build products.
+
+I launch.
+
+I iterate.
+
+I scale.
+
+My work lives at the intersection of:
+
+* 🤖 Artificial Intelligence
+* ⚙️ Automation
+* 📈 FinTech
+* 🚀 SaaS Products
+* 🌐 Web Technologies
+* 🎨 Design & User Experience
 
 ---
 
-### 🎬 ScriptWave
+# // CURRENT_BUILD_STACK
 
-Convert video transcripts into ready-to-record scripts using LLMs.
+<div align="center">
 
-Features:
 
-* Transcript Extraction
-* AI Script Generation
-* Hook Creation
-* CTA Generation
-* Teleprompter Workflow
+
+\
+
+
+\
+
+
+
+\
+
+</div>
 
 ---
 
-### 🎵 Frequenz
+# // FEATURED_SYSTEMS
+
+## 🧠 CareerCommandCenter
+
+AI-powered career operating system.
+
+```text
+Resume Match Engine
+Job Intelligence Layer
+Cover Letter Generator
+Application Tracker
+AI Career Advisor
+```
+
+**Stack:** Python • SQLite • Groq LLM • Textual TUI
+
+Link : https://github.com/FinTechResearch/CareerCommandCenter
+
+---
+
+## 🎬 ScriptWave
+
+Video → Transcript → AI Script Pipeline
+
+```text
+Video Analysis
+Transcript Extraction
+Prompt Engineering
+Llama Integration
+Script Generation
+Teleprompter Output
+
+Link : https://microsoftedge.microsoft.com/addons/detail/scriptwave-%E2%80%93-youtube-scri/hbfnmkjbpphplkdnbblagdaebphlmkdm
+```
+
+---
+
+## 🎵 Frequenz
 
 Real-time browser audio visualizer.
 
-Built using:
+```text
+Web Audio API
+Live Frequency Analysis
+Canvas Rendering
+Interactive Visual Systems
 
-* Web Audio API
-* Canvas Rendering
-* Real-Time Frequency Analysis
-
----
-
-### 🔊 SoundForge
-
-Audio processing and sound synthesis web application.
-
-Features:
-
-* Audio Manipulation
-* Waveform Visualization
-* WAV Export
-* MP3 Export
+Link : https://chromewebstore.google.com/detail/frequenz-%E2%80%94-audio-reactive/kndgacdappgonickpgcfbfolbakklfij
+```
 
 ---
 
-### 🎨 AI Wallpaper Generator
+## 🔊 SoundForge
 
-Java desktop application that creates motivational wallpapers using dynamic composition systems.
-
----
-
-## 📜 Certifications
-
-🏆 Fundamentals of Digital Marketing — Google
-
-🏆 AI-Powered Digital Marketing — IIDE
-
-🏆 Instagram Reels & YouTube SEO — IIDE
+Audio processing and sound engineering web application.
 
 ---
 
-## 📊 GitHub Analytics
+## 🎨 AI Wallpaper Generator
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FinTechResearch\&show_icons=true\&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=FinTechResearch\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FinTechResearch\&layout=compact\&theme=tokyonight)
+Automated visual generation engine built in Java.
 
 ---
 
-## 🌐 Connect With Me
+# // GITHUB_TELEMETRY
 
-💼 LinkedIn: [www.linkedin.com/in/aditya-madhok](http://www.linkedin.com/in/aditya-madhok)
+<div align="center">
 
-🐙 GitHub: github.com/FinTechResearch
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=FinTechResearch&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
 
-🔗 Linktree: linktr.ee/adityamadhok
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FinTechResearch&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
 
-📧 [adityamadhok2026@gmail.com](mailto:adityamadhok2026@gmail.com)
-
----
-
-## Philosophy
-
-> Notice the gap nobody asked to fill.
->
-> Build it end-to-end.
->
-> Ship it.
->
-> Then find out who needed it.
+</div>
 
 ---
 
-⭐ Building AI-native products, SaaS tools, browser extensions, and automation systems.
+# // CONTRIBUTION_MATRIX
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=FinTechResearch&theme=tokyo-night&hide_border=true&bg_color=00000000"/>
+
+</div>
+
+---
+
+# // DEVELOPMENT_STREAK
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=FinTechResearch&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# // CERTIFICATION_PROTOCOLS
+
+🏆 Google Fundamentals of Digital Marketing
+
+🏆 AI-Powered Digital Marketing
+
+🏆 Instagram Reels & YouTube SEO
+
+---
+
+# // CURRENT_OBJECTIVES
+
+```python
+while alive:
+
+    identify_problem()
+
+    build_solution()
+
+    ship_product()
+
+    learn()
+
+    repeat()
+```
+
+---
+
+# // CONNECT
+
+<div align="center">
+
+[LinkedIn](https://linkedin.com/in/aditya-madhok) •
+[GitHub](https://github.com/FinTechResearch) •
+[Linktree](https://linktr.ee/adityamadhok)
+
+</div>
+
+---
+
+```text
+MISSION LOG
+
+Build products.
+Create leverage.
+Automate the repetitive.
+Scale the useful.
+
+Version: 2026.08
+Status : SHIPPING
+```
+
+<div align="center">
+
+⚡ BUILD • SHIP • SCALE ⚡
+
+</div>
