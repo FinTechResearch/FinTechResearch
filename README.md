@@ -10,7 +10,7 @@
 
 <div align="center">
 
-# ⚡ AVAILABLE FOR FREELANCE PROJECTS & REMOTE OPPORTUNITIES
+# ⚡ AVAILABLE FOR JOBS, FREELANCE PROJECTS & REMOTE OPPORTUNITIES
 
 ### 🤖 AI Applications • ⚙️ Automation • 🚀 SaaS • 📈 FinTech • 🌐 Full-Stack Solutions
 
