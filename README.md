@@ -1,4 +1,5 @@
-[![banner](https://private-user-images.githubusercontent.com/122870778/633748814-2fcdca07-fbc9-4588-9be1-7547eac52208.png)](https://fintechresearch.github.io/Aditya-Madhok-Portfolio/)
+<img width="1983" height="793" alt="banner" src="https://github.com/user-attachments/assets/296c9ecd-2e4b-4efd-803c-fb6fbb7f2981" />
+
 
 # ⚡ ADITYA MADHOK
 
