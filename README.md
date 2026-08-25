@@ -13,7 +13,7 @@
 [![LinkedIn](https://img.shields.io/badge/%F0%9F%92%BC_LinkedIn-Connect-FF00FF?style=for-the-badge)](https://linkedin.com/in/aditya-madhok-035359l44a)
 [![Email](https://img.shields.io/badge/%F0%9F%93%A7_Email-Contact-00FF88?style=for-the-badge)](mailto:adityamadhok2026@gmail.com)
 
-[![Profile views](https://komarev.com/ghpvc/?username=FinTechResearch&label=PROFILE+VIEWS&color=FFFFFF&style=for-the-badge)](https://fintechresearch.github.io/Aditya-Madhok-Portfolio/)
+[![Profile views](https://komarev.com/ghpvc/?username=FinTechResearch&label=PROFILE+VIEWS&color=FFFFFF&label_color=000000&style=for-the-badge)](https://fintechresearch.github.io/Aditya-Madhok-Portfolio/)
 
 ---
 
