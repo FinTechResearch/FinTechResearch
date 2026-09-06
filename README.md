@@ -3,11 +3,13 @@
 
 # ⚡ ADITYA MADHOK
 
-### 🤖 AI PRODUCT BUILDER • 🐍 PYTHON DEVELOPER • ⚙️ AUTOMATION ENGINEER
+### 🖥️ FULL-STACK WEB DEVELOPER
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Building+AI+Products+That+People+Actually+Use;AI+Agents+%7C+LLM+Apps+%7C+Automation+Systems;Open+for+Freelance+%26+Remote+Work)](https://git.io/typing-svg)
+### React • Next.js • TypeScript • Node.js • PostgreSQL
 
-[![Portfolio](https://img.shields.io/badge/%F0%9F%9F%8C_Portfolio-Live-00FFFF?style=for-the-badge)](https://fintechresearch.github.io/Aditya-Madhok-Portfolio/)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Building+Fast%2C+Scalable+Web+Products%3B+UI+to+Deployment;React+%7C+Next.js+%7C+TypeScript+%7C+Node.js+%7C+PostgreSQL;Open+for+Freelance+%26+Remote+Work)](https://git.io/typing-svg)
+
+[![Portfolio](https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-Live-00FFFF?style=for-the-badge)](https://fintechresearch.github.io/Aditya-Madhok-Portfolio/)
 [![Fiverr](https://img.shields.io/badge/%F0%9F%9A%80_Fiverr-Freelance-1DBF73?style=for-the-badge)](https://www.fiverr.com/sellers/adityamadhokdev)
 [![Calendly](https://img.shields.io/badge/%F0%9F%93%85_Book+a+Call-Calendly-006BFF?style=for-the-badge)](https://calendly.com/adityamadhok2026/30min)
 [![LinkedIn](https://img.shields.io/badge/%F0%9F%92%BC_LinkedIn-Connect-FF00FF?style=for-the-badge)](https://linkedin.com/in/aditya-madhok-035359l44a)
@@ -21,110 +23,77 @@
 
 ```
 Name:         Aditya Madhok
-Role:         AI Product Builder
+Role:         Full-Stack Web Developer
 Location:     India 🇮🇳
-Availability: Freelance • Contract • Remote • Startup collabs
+Availability: Freelance • Contract • Remote
 
-Current Focus:
-  - AI Agents & LLM Applications
-  - Automation Systems
-  - SaaS Products
-  - Browser Extensions
-  - FinTech Solutions
+Stack:
+  Frontend:   React • Next.js • TypeScript • Responsive UI • Accessibility
+  Backend:    Node.js • APIs • Authentication • Business Logic
+  Data:       PostgreSQL • Schema Design • ORM • Migrations • CRUD
+  Production: Git • Testing • CI/CD • Deployment • Security Basics
 
-Mission:
-  Build useful software that solves real problems.
+What I do:
+  Build production-ready websites, web apps and SaaS products
+  From interface → application logic → database → deployment
+  Use AI as a feature inside products when the product needs it
 ```
 
 ---
 
-## 💼 SERVICES
+## 🏆 FEATURED PROJECTS
 
-**AI Development**
-✓ AI Agents ✓ GPT Applications ✓ LLM Integrations ✓ AI Workflow Automation ✓ Prompt Engineering
+The three projects below show a clear progression — from a static website to a full-stack app to a SaaS product.
 
-**Python Development**
-✓ Automation Scripts ✓ APIs ✓ Data Processing ✓ Business Tools ✓ Custom Software
+### 🚀 Project 01 — Production Website
+A real business-style website with responsive design, reusable components, forms, SEO, accessibility, analytics and deployment.
 
-**Web & Product Development**
-✓ SaaS MVPs ✓ Browser Extensions ✓ Dashboards ✓ Internal Tools ✓ Productivity Systems
+### 💻 Project 02 — Full-Stack Web App
+An application with login, database, user accounts, CRUD, API integration and a proper dashboard.
 
-**Business Automation**
-✓ Lead Automation ✓ Reporting Systems ✓ Workflow Optimization ✓ Marketing Automation ✓ Operations Automation
-
----
-
-## 🏆 FEATURED PRODUCTS
-
-### 🧠 CareerCommandCenter
-AI-powered Career Operating System.
-**Features:** Resume Match Engine • Job Intelligence Layer • AI Cover Letter Generator • Application Tracker • Career Insights Dashboard
-**Stack:** Python • SQLite • Groq LLM • Textual
+### 🧠 Project 03 — CareerCommandCenter *(Hero Project / SaaS)*
+AI-powered Career Operating System pushed in a proper SaaS direction.
+**Features:** Auth • Database relationships • Role permissions • Application tracking • APIs • Testing • Deployment • AI layer
+**Stack:** Next.js • TypeScript • Node.js • PostgreSQL
 🔗 [Repository](https://github.com/FinTechResearch/CareerCommandCenter)
 
----
-
-### 🎬 ScriptWave
-Video → Transcript → AI Script Generator.
-**Features:** Transcript Extraction • Script Generation • Hook Builder • CTA Generator • Creator Workflow Automation
-**Stack:** JavaScript • Browser Extension APIs • LLM Integration
-🔗 [Microsoft Edge Store](https://microsoftedge.microsoft.com/addons/detail/scriptwave-%E2%80%93-youtube-scri/hbfnmkjbpphplkdnbblagdaebphlmkdm)
+> The README shows the problem, architecture, stack, key decisions, screenshots, live demo and what was personally built.
 
 ---
 
-### 🎵 Frequenz
-Audio-reactive browser extension with real-time visual effects.
-**Features:** Real-Time Audio Analysis • Dynamic Visualizations • Browser Audio Processing • Interactive Effects
-**Stack:** JavaScript • Web Audio API
-🔗 [Chrome Web Store](https://chromewebstore.google.com/detail/frequenz-%E2%80%94-audio-reactive/kndgacdappgonickpgcfbfolbakklfij)
+## ⚙️ SKILL STACK
 
----
-
-### 🔊 SoundForge
-Audio engineering application. *(Active Development)*
-**Stack:** Python
-
----
-
-### 🎨 AI Wallpaper Generator
-Java-based automated wallpaper generator. *(Complete)*
-**Stack:** Java
-
----
-
-## 🔨 CURRENTLY BUILDING
-
-```
-🚀 CareerCommandCenter v2
-🤖 AI Agent Experiments
-⚡ Advanced Automation Systems
-📈 SaaS Product Ideas
-🎯 New Browser Extensions
-```
-
----
-
-## ⚙️ TECH STACK
-
-**AI & Automation**
-![OpenAI](https://img.shields.io/badge/OpenAI-111111?style=for-the-badge&logo=openai)
-![Groq](https://img.shields.io/badge/Groq-111111?style=for-the-badge)
-![LLM](https://img.shields.io/badge/LLM_Engineering-111111?style=for-the-badge)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-111111?style=for-the-badge)
-
-**Backend**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-E76F00?style=for-the-badge&logo=openjdk)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite)
+Progression order: **HTML/CSS → JavaScript → TypeScript → React → Next.js → Node/APIs → PostgreSQL → Auth → Testing → Deployment**
 
 **Frontend**
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+
+**Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
 
-**Tools**
+**Data**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
+
+**Production**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+
+---
+
+## 🏅 ADDITIONAL WORK
+
+Supporting skills and earlier experiments — kept available, below the main portfolio story.
+
+- **AI Agents & LLM Integrations** — uses AI as a feature inside real products
+- **Automation Systems** — Python scripts, workflows, business tools
+- **Browser Extensions** — ScriptWave (YouTube script generator), Frequenz (audio-reactive)
+- **Audio Engineering** — SoundForge *(Active Development)*
+- **Java** — AI Wallpaper Generator *(Complete)*
 
 ---
 
