@@ -1,5 +1,6 @@
 <img width="1983" height="793" alt="banner" src="https://github.com/user-attachments/assets/296c9ecd-2e4b-4efd-803c-fb6fbb7f2981" />
 
+<p align="center"><img width="512" height="512" alt="1" src="https://github.com/user-attachments/assets/71daa8a6-478b-4c3b-ae57-82e52883e038" /></p>
 
 # ⚡ ADITYA MADHOK
 
